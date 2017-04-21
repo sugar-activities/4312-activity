@@ -1,0 +1,6 @@
+[Activity]
+name = IRC
+activity_version = 6
+service_name = org.paraguayeduca.IRC
+icon = activity-ircchat
+exec = sugar-activity ircactivity.IRCActivity
